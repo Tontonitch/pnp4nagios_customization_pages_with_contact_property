@@ -116,4 +116,5 @@ define graph {
 
 Logging with another user, for example systemadmin, you won't see that page in the list anymore ![Image](images/patched_example_of_pages.png)
 
-Logging back with oracleadmin, let's see the list of pages. The user oracleadmin just see the pages for which he is concerned. ![Image](images/patched_only_oracleadmin_pages_shown.png)
+Logging back with oracleadmin, let's see the list of pages. The user oracleadmin just see the pages for which he is concerned. 
+![Image](images/patched_only_oracleadmin_pages_shown.png)
